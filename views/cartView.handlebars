@@ -1,0 +1,12 @@
+<main>
+    <div>
+        {{#each renderCart}}
+            <p>Producto: {{idProduct.title}}</p>
+            <p>Descripción: {{idProduct.description}}</p>
+            <p>Precio: {{idProduct.price}}</p>
+            <p>Categoria: {{idProduct.category}}</p>
+            <p>Cantidad en el carrito: {{qty}}</p>
+            <hr>
+        {{/each}}
+    </div>
+</main>

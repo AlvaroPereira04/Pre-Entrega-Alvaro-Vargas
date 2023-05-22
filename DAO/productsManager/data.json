@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone 14 Pro Max",
+    "description": "Descripción Iphone 14 Pro Max",
+    "price": 1500,
+    "thumbnail": [
+      "png"
+    ],
+    "code": "Iphone 001",
+    "stock": 90,
+    "status": true,
+    "category": "Celulares"
+  },
+  {
+    "id": 2,
+    "title": "Iphone 13 Pro Max",
+    "description": "Descripción Iphone 13 Pro Max",
+    "price": 1000,
+    "thumbnail": [
+      "png"
+    ],
+    "code": "Iphone 002",
+    "stock": 90,
+    "status": true,
+    "category": "Celulares"
+  },
+  {
+    "id": 3,
+    "title": "PS5",
+    "description": "Descripción PS%",
+    "price": 500,
+    "thumbnail": [
+      "png"
+    ],
+    "code": "Playstation 001",
+    "stock": 15,
+    "status": true,
+    "category": "Gamer"
+  },
+  {
+    "id": 4,
+    "title": "XBOX Serie X",
+    "description": "Descripción XBOX Serie X",
+    "price": 350,
+    "thumbnail": [
+      "png"
+    ],
+    "code": "XBOX 001",
+    "stock": 15,
+    "status": true,
+    "category": "Gamer"
+  }
+]
