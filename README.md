@@ -5,7 +5,7 @@
 
 TO START: npm run dev Base de datos: Mongo de manera local nombre de la base de datos: 'ecommerce' colecciones: 'carts', 'messages', 'products', 'sessions', 'usuarios'
 
-/------------------------------------------------------PRIMERA PRE ENTREGA--------------------------------------------/
+/------------------------------------------------------PRIMERA PRE ENTREGA Alvaro Vargas --------------------------------------------/
 
 ¿Cómo usar?
 
